@@ -3,7 +3,7 @@ int main()
 {
 	printf("-----------------------------\n\ttables maker v0.1\n-----------------------------");	
 
-	FILE *tables=fopen("data.txt","w");/*opened a file called name.txt */
+	FILE *tables=fopen("tables.txt","w");/*opened a file called name.txt */
 
 	int table,a,max=10,store;
 
