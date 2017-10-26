@@ -6,10 +6,10 @@ int main()
 	//clrscr();
 	
 	printf("sum of two values is =%d",a+b);
-	printf("subtraction of two values is =%d",a-b);
-	printf("poduct of two values is =%d",a*b);
-	printf("division of two values is =%d",a/b);
-	printf(" moudular division of two values is =%d",a%b);
+	printf("\nsubtraction of two values is =%d",a-b);
+	printf("\npoduct of two values is =%d",a*b);
+	printf("\ndivision of two values is =%d",a/b);
+	printf("\n moudular division of two values is =%d",a%b);
 	
 	//getch()
 	return 0;
