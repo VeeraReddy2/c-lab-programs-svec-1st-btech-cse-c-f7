@@ -2,7 +2,7 @@
 //#include<conio.h>
 int main()
 {
-	int a=10;b=13;
+	int a=10,b=13;
 	//clrscr();
 	
 	printf("sum of two values is =%d",a+b);
