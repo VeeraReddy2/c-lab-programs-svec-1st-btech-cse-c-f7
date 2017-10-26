@@ -1,9 +1,9 @@
 #include<stdio.h>
-#include<conio.h>
+//#include<conio.h>
 int main()
 {
 	int a=10;b=13;
-	clrscr();
+	//clrscr();
 	
 	printf("sum of two values is =%d",a+b);
 	printf("subtraction of two values is =%d",a-b);
@@ -11,7 +11,7 @@ int main()
 	printf("division of two values is =%d",a/b);
 	printf(" moudular division of two values is =%d",a%b);
 	
-	getch()
+	//getch()
 	return 0;
 }
 
